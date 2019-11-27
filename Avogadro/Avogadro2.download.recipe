@@ -14,7 +14,7 @@
         <string>https://www.openchemistry.org/downloads/</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>0.6.0</string>
+    <string>1.4</string>
     <key>Process</key>
     <array>
         <dict>
