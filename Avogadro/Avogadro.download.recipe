@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Avogadro installer</string>
     <key>Identifier</key>
-    <string>com.github.dcoobs.download.Avogadro</string>
+    <string>com.github.dcoobs-recipes.download.Avogadro</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
