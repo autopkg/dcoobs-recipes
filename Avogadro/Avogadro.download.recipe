@@ -40,10 +40,6 @@
 			<key>Processor</key>
 			<string>com.github.n8felton.shared/MD5Checksum</string>
 		</dict>
-		<dict>
-    		<key>Processor</key>
-    		<string>EndOfCheckPhase</string>
-    	</dict>
     </array>
 </dict>
 </plist>
